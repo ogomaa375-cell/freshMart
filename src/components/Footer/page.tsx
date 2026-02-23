@@ -9,7 +9,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
                     <div className="space-y-4">
                         <h2 className="text-xl font-bold bg-linear-to-r from-blue-400 via-violet-400 to-purple-500 bg-clip-text text-transparent">
-                            NovaMart
+                            freshMart
                         </h2>
                         <p className="text-sm text-slate-400 leading-relaxed">
                             Your trusted online store for tech, fashion, and lifestyle products.
@@ -55,7 +55,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="mt-14 pt-6 border-t border-slate-800 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-slate-500">
-                    <p>© {new Date().getFullYear()} NovaMart. All rights reserved.</p>
+                    <p>© {new Date().getFullYear()} freshMart. All rights reserved.</p>
                     <div className="flex gap-5">
                         <span>🚚 Fast Shipping</span>
                         <span>🔒 Secure Payments</span>
